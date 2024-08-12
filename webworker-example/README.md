@@ -1,6 +1,6 @@
 # webworker-example
 
-Add two numbers via WebWorker
+Add two numbers via Web Worker
 
 ## Getting Started
 
